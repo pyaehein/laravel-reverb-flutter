@@ -6,7 +6,7 @@ import 'dart:async';
 const String serverUrl = '192.168.1.156';
 const int serverPort = 8000;
 const int wsPort = 8080;
-const String authKey = "Bearer 1|GLluSjMtifitjzTBm4pXMThcCukWzTTZEue0dpyyb0f5ee2b";
+const String authKey = "Bearer 3|kyruWGcx864ojdIkUzD8vFxqsrx5hDSdWWMPgVVFd6dbd603";
 
 class Chat extends StatefulWidget {
   const Chat({super.key});
